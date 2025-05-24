@@ -1,17 +1,21 @@
-# Liang-SI
+# sherry-hub
 
-Liang-SI is an e-commerce project developed as part of a course assignment from Aptech. This project aims to demonstrate key front-end development skills using modern web technologies.
+its my first repo i will try every thing to make it perfect
 
-<div align="center">
-  <img src="https://streak-stats.demolab.com?user=Shehriyal-Aziz&locale=en&mode=daily&theme=dark&hide_border=false&border_radius=5&order=3" height="220" alt="streak graph"  />
-</div>
+---
 
 ## 💻 Tech Stack
 
-- **HTML**
-- **CSS**
-- **JavaScript**
-- **jQuery**
-- **Bootstrap**
+<p align="left">
+  <img src="https://img.shields.io/badge/HTML5-E34F26?logo=html5&logoColor=white" alt="HTML5" />
+  <img src="https://img.shields.io/badge/CSS3-1572B6?logo=css3&logoColor=white" alt="CSS3" />
+  <img src="https://img.shields.io/badge/JavaScript-F7DF1E?logo=javascript&logoColor=black" alt="JavaScript" />
+  <img src="https://img.shields.io/badge/jQuery-0769AD?logo=jquery&logoColor=white" alt="jQuery" />
+  <img src="https://img.shields.io/badge/Bootstrap-7952B3?logo=bootstrap&logoColor=white" alt="Bootstrap" />
+</p>
+
+---
+
+
 
 
